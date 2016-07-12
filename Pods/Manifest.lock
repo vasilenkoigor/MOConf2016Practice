@@ -1,0 +1,25 @@
+PODS:
+  - ReactiveCocoa (4.1.0):
+    - ReactiveCocoa/UI (= 4.1.0)
+    - Result (~> 2.0)
+  - ReactiveCocoa/Core (4.1.0):
+    - ReactiveCocoa/no-arc
+    - Result (~> 2.0)
+  - ReactiveCocoa/no-arc (4.1.0):
+    - Result (~> 2.0)
+  - ReactiveCocoa/UI (4.1.0):
+    - ReactiveCocoa/Core
+    - Result (~> 2.0)
+  - Result (2.1.1)
+  - RxSwift (2.5.0)
+
+DEPENDENCIES:
+  - ReactiveCocoa
+  - RxSwift
+
+SPEC CHECKSUMS:
+  ReactiveCocoa: d70004d7a366a7b8e87e60ce2347182c77701949
+  Result: 822c879f145943320cc80a9a8372378e3d699fe4
+  RxSwift: 402b41a50e922a0368fc14cb3bc9f4427920e8ae
+
+COCOAPODS: 0.38.2
